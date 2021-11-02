@@ -1,3 +1,10 @@
+#!/usr/bin/env python3
+'''
+Created on Nov 2 16:12:00 2021
+
+@author: bingyinh
+'''
+
 import requests
 import dateutil.parser
 
