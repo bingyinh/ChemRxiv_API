@@ -1,5 +1,5 @@
 # ChemRxiv_API
-A python wrapper for making API call to the ChemRxiv server. Please refer to the code documentation for query parameters.
+A python wrapper for making API call to the ChemRxiv (https://chemrxiv.org/engage/chemrxiv/public-dashboard) server. Please refer to the code documentation for query parameters.
 
 ## Pre-requisites
 Run the following command to install the required packages.
